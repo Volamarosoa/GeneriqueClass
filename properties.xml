@@ -1,25 +1,12 @@
 <Properties>
     <ConnexionBase>
     <!-- Base: postgresql, mysql, sqlserver -->
-        <Base>postgresql</Base>
-        <Host>localhost</Host>
-        <Port>5432</Port>
-        <UserName>postgres</UserName>
-        <Password>fanatenana</Password>
-        <DataBase>gestion_rh</DataBase>
-        <Driver-class-name>org.postgresql.Driver</Driver-class-name>
+        <Base>Postgres</Base>
+        <Host>HostName</Host>
+        <Port>Port</Port>
+        <UserName>UserName</UserName>
+        <Password>Password</Password>
+        <DataBase>NameOfDataBase</DataBase>
+        <Driver-class-name>Nom_Driver</Driver-class-name>
     </ConnexionBase>
 </Properties>
-
-
-
-<!-- <ConnexionBase>
- Base: postgresql, mysql, sqlserver 
-    <Base>Postgres</Base>
-    <Host>HostName</Host>
-    <Port>Port</Port>
-    <UserName>UserName</UserName>
-    <Password>Password</Password>
-    <DataBase>NameOfDataBase</DataBase>
-    <Driver-class-name>Nom_Driver</Driver-class-name>
-</ConnexionBase> -->
