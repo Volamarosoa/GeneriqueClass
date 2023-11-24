@@ -1,0 +1,12 @@
+<Properties>
+    <ConnexionBase>
+    <!-- Base: postgresql, mysql, sqlserver -->
+        <Base>Postgres</Base>
+        <Host>HostName</Host>
+        <Port>Port</Port>
+        <UserName>UserName</UserName>
+        <Password>Password</Password>
+        <DataBase>NameOfDataBase</DataBase>
+        <Driver-class-name>Nom_Driver</Driver-class-name>
+    </ConnexionBase>
+</Properties>
