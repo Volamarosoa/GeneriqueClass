@@ -11,7 +11,7 @@ Apres creer une instance de l'objet GeneriqueClass: package: generique.Generique
         * new GeneriqueClass(String properties, String extension, String path, String nomPackage, String table)
         - properties: c'est le chemain de votre fichier XML
         - extension: c'est le fichier que vous voulez generer: .java ou .cs seulement
-        - path: c'est qu'on va creer votre class
+        - path: c'est le chemin qu'on va creer votre class
         - nomPackage: c'est le nom du package de votre class
         - table: c'est le nom du table ou vue qu'on va generer votre class
         - nomClass: c'est le nom du class qu'on va generer
